@@ -1,9 +1,6 @@
 # アプリ名
 task_manager
 
-## デモサイトURL
-https://k-jonin.net/task_manager/
-
 ## アプリ概要
 タスクを管理するアプリ。
 
